@@ -1,5 +1,4 @@
 from typing import Union
-import requests
 from fastapi import FastAPI
 from pydantic import BaseModel
 
